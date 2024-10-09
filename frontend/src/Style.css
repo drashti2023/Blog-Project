@@ -1,0 +1,31 @@
+/* Style.css */
+
+body {
+  background-color: #343a40; /* Dark background */
+  color: #f8f9fa; /* Light text color */
+}
+
+/* Optional: Customize links */
+a {
+  color: #007bff; /* Bootstrap link color */
+}
+
+a:hover {
+  color: #0056b3; /* Darker shade on hover */
+}
+
+/* Additional styles for cards, forms, and buttons if needed */
+.card {
+  background-color: #495057; /* Dark card background */
+  border: none; /* Remove border */
+}
+
+/* Optional: Button hover effect */
+.btn-primary {
+  background-color: #007bff; /* Button color */
+  border-color: #007bff; /* Button border color */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Darker button color on hover */
+}

@@ -1,0 +1,12 @@
+/* NavBar.css */
+.nav-link {
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #1e90ff; /* Light blue on hover */
+}
+
+.navbar-brand {
+    font-size: 1.5em; /* Logo font size */
+}
